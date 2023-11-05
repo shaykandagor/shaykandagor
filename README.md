@@ -1,16 +1,16 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Shayne Kandagor</h1>
+<h1 align="center">Hi 👋, I'm Shayne Kandagor, interested in Mobile and Web application Development.</h1>
 <h3 align="center">A passionate, dedicated and motivated software developer from Helsinki, Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaykandagor&label=Profile%20views&color=0e75b6&style=flat" alt="shaykandagor" /> </p>
 
-- 🔭 I’m currently working on [Sensor Based Mobile Application](https://github.com/ericaskari-metropolia/sbma)
+- 🔭 I’m currently working as a part-time software project coordinator in a start-up company, Calevala Oy. In this role, I contribute to software projects in testing, feasibility studies, and user flow modeling. Furthermore, I'm proud to volunteer as a software developer at Pawple, a startup company, where I play a key role in building and developing the front-end and back-end of a mobile application. 
 
-- 🌱 I’m currently learning **Advanced Android Development with Kotlin**
+- 🌱 I’m currently learning the best practices of frontend and backend application development. 
 
-- 👯 I’m looking to collaborate on **Development of Mobile and Web apps**
+- 👯 I’m looking to collaborate on **Development of Mobile and Web applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaykandagor?tab=repositories](https://github.com/shaykandagor?tab=repositories)
 
