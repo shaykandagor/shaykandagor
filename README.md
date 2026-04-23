@@ -1,48 +1,60 @@
 # Hi, I'm Shayne Kandagor 👋
 
-**Software developer · Recent graduate · Open to opportunities**
+**Software Developer building fast, user-focused products**
 
 ---
 
 ## About me
 
-I'm a software developer who graduated in May 2025 from Metropolia UAS, Helsinki. My strongest ground is frontend — React, TypeScript, clean UIs — but my background is in software development broadly, and I'm actively growing on the backend side too.
+I build products, not just projects.
 
-I'm a two-time hackathon award winner — check out my [LinkedIn](https://www.linkedin.com/in/shaykandagor) for the highlights.
+I’m a Helsinki-based software developer (Metropolia UAS, 2025) focused on **creating simple, scalable solutions that solve real problems**.
 
-Open to collaborating on interesting projects and early-stage builds, and actively looking for my first role in software development.
+My background spans both **frontend and backend**, and I’m growing into full-stack development — building APIs, working with data, and shipping complete features end-to-end.
+
+I’ve also:
+- 🏆 Won **2 hackathons** solving real-world problems under pressure  
+- ⚡ Built MVPs fast using modern tools + AI-assisted workflows  
+- 🧠 Learned to prioritize **execution over overthinking**
+
+👉 More: [LinkedIn](https://www.linkedin.com/in/shaykandagor)
 
 ---
 
 ## Tech stack
 
-**Frontend**
-- React
-- JavaScript
-- TypeScript
-- React Native
-- HTML & CSS
+**Core**
+- JavaScript · TypeScript  
+- Node.js · PostgreSQL · REST APIs  
 
-**Backend**
-- Node.js
-- PostgreSQL
-- REST APIs
+**Frontend**
+- React · React Native · HTML · CSS  
 
 **Tools**
-- Git
-- Figma
+- Git  
+- Figma  
 
 ---
 
-## What I'm up to
+## What I'm doing right now
 
-- Building projects with **React + TypeScript**
-- Expanding my skills across the **full stack**
-- Open to collaborating on interesting projects
-- Actively looking for my first **software development role**
+- 🚀 Building and shipping **real projects** (not tutorials)  
+- 🧩 Growing into **full-stack development**  
+- ⚡ Moving fast, learning by doing, iterating constantly  
 
 ---
 
-## Let's connect
+## What I’m looking for
+
+I’m looking for a **Software Developer role** where I can:
+- Ship real features  
+- Learn fast in a strong team  
+- Contribute to something that actually matters  
+
+Also open to **early-stage startups, collaborations, and builders who just want to create things**.
+
+---
+
+## Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaykandagor-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaykandagor)
